@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build
+/dist/
+/build/
+
+# System files
+.DS_Store
